@@ -1,0 +1,49 @@
+{
+    "lancamentos": [
+        {
+            "id": "demo001",
+            "descricao": "Venda de notebook",
+            "categoria": "Eletrônicos",
+            "tipo": "entrada",
+            "valor": 3500,
+            "data": "2024-06-01",
+            "criado_em": "2024-06-01 10:00:00"
+        },
+        {
+            "id": "demo002",
+            "descricao": "Compra de estoque - cabos USB",
+            "categoria": "Acessórios",
+            "tipo": "saida",
+            "valor": 420,
+            "data": "2024-06-02",
+            "criado_em": "2024-06-02 09:30:00"
+        },
+        {
+            "id": "demo003",
+            "descricao": "Venda de fones de ouvido",
+            "categoria": "Eletrônicos",
+            "tipo": "entrada",
+            "valor": 890,
+            "data": "2024-06-03",
+            "criado_em": "2024-06-03 14:15:00"
+        },
+        {
+            "id": "demo004",
+            "descricao": "Manutenção de equipamentos",
+            "categoria": "Serviços",
+            "tipo": "saida",
+            "valor": 250,
+            "data": "2024-06-04",
+            "criado_em": "2024-06-04 11:00:00"
+        },
+        {
+            "id": "demo005",
+            "descricao": "Venda de teclado mecânico",
+            "categoria": "Periféricos",
+            "tipo": "entrada",
+            "valor": 650,
+            "data": "2024-06-05",
+            "criado_em": "2024-06-05 16:45:00"
+        }
+    ]
+}
